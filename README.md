@@ -1,1 +1,2 @@
-# SquadRumours
+# TradingBot
+
