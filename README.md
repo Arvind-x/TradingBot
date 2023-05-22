@@ -1,7 +1,4 @@
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Trading Bot</title>
 </head>
 <body>
   <h1>Trading Bot</h1>
