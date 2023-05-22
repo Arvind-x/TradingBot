@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>High-Frequency Trading (HFT) Simulator</title>
+ 
 </head>
 <body>
   <h1>High-Frequency Trading (HFT) Simulator</h1>
